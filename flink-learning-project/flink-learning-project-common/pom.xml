@@ -10,7 +10,8 @@
     <modelVersion>4.0.0</modelVersion>
 
     <artifactId>flink-learning-project-common</artifactId>
-    <!-- 个人代码提交个人分支 -->
+    <!-- git使用1：个人代码提交个人分支 -->
+    <!-- git使用3：个人分支合并到主分支 -->
     <dependencies>
         <dependency>
             <groupId>com.zhisheng.flink</groupId>
