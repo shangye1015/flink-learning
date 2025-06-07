@@ -12,6 +12,7 @@
     <artifactId>flink-learning-project-common</artifactId>
     <!-- git使用1：个人代码提交个人分支 -->
     <!-- git使用3：个人分支合并到主分支 -->
+    <!-- git使用2：主分支被修改 -->
     <dependencies>
         <dependency>
             <groupId>com.zhisheng.flink</groupId>
